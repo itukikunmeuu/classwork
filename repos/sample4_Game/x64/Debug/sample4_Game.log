@@ -1,0 +1,79 @@
+﻿  Enemy.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(22,17): error C2109: 配列または、ポインターでない変数に添字が使われました。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(23,17): error C2109: 配列または、ポインターでない変数に添字が使われました。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(44,17): error C2109: 配列または、ポインターでない変数に添字が使われました。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(44,33): error C2109: 配列または、ポインターでない変数に添字が使われました。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(45,17): error C2109: 配列または、ポインターでない変数に添字が使われました。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(45,33): error C2109: 配列または、ポインターでない変数に添字が使われました。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(78,44): error C2109: 配列または、ポインターでない変数に添字が使われました。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(78,73): error C2109: 配列または、ポインターでない変数に添字が使われました。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(78,9): error C2660: 'DxLib::DrawGraph': 関数に 3 個の引数を指定できません。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(2907,14): message : 'DxLib::DrawGraph' の宣言を確認してください
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(78,9): message : 引数リスト '()' を一致させようとしているとき
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(104,13): error C2109: 配列または、ポインターでない変数に添字が使われました。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(105,13): error C2109: 配列または、ポインターでない変数に添字が使われました。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(106,18): error C2429: 言語機能 'if/switch の init-statements' にはコンパイラ フラグ '/std:c++17' が必要です
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(106,36): error C2143: 構文エラー: ')' が ';' の前にありません。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(106,38): error C2065: 'i': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(106,41): error C2059: 構文エラー: ')'
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(108,16): error C2065: 'i': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(108,29): error C2109: 配列または、ポインターでない変数に添字が使われました。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(108,30): error C2059: 構文エラー: ';'
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(109,16): error C2065: 'i': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(109,29): error C2109: 配列または、ポインターでない変数に添字が使われました。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(106,36): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(111,1): error C2059: 構文エラー: '}'
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(111,1): error C2143: 構文エラー: ';' が '}' の前にありません。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(114,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\fko2347002\source\repos\sample4_Game\Enemy.cpp(114,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+  main.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  SceneMain.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneMain.cpp(55,2): error C2065: 'm_bgmHamdle': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneMain.cpp(181,37): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  SceneManager.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(23,22): error C2065: 'kBgNum': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(25,3): error C2065: 'm_bgHandle': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(45,3): error C2065: 'm_handle': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(50,3): error C2065: 'm_handle': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(164,2): error C2065: 'm_fadeCount': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(165,2): error C2065: 'm_fadeSpeed': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(166,2): error C2065: 'm_waitFrame': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(169,2): error C2065: 'm_bgHandle': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(170,2): error C2065: 'm_bgHandle': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(171,2): error C2065: 'm_bgHandle': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(172,2): error C2065: 'm_bgHandle': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(174,2): error C2065: 'm_bgNo': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(179,6): error C2065: 'm_fadeSpeed': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(182,3): error C2065: 'm_waitFrame': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(183,7): error C2065: 'm_waitFrame': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(186,4): error C2065: 'm_fadeSpeed': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(189,11): error C2065: 'm_fadeSpeed': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(192,3): error C2065: 'm_fadeCount': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(192,18): error C2065: 'm_fadeSpeed': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(193,7): error C2065: 'm_fadeCount': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(195,4): error C2065: 'm_fadeCount': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(197,4): error C2065: 'm_fadeSpeed': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(198,4): error C2065: 'm_waitFrame': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(204,3): error C2065: 'm_fadeCount': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(204,18): error C2065: 'm_fadeSpeed': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(205,7): error C2065: 'm_fadeCount': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(208,4): error C2065: 'm_fadeSpeed': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(211,4): error C2065: 'm_bgNo': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(212,8): error C2065: 'm_bgNo': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(212,18): error C2065: 'kBgNum': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(214,5): error C2065: 'm_bgNo': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(223,18): error C2065: 'm_bgHandle': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(223,29): error C2065: 'm_bgNo': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(223,2): error C2660: 'DxLib::DrawGraph': 関数に 3 個の引数を指定できません。
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(2907,14): message : 'DxLib::DrawGraph' の宣言を確認してください
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(223,2): message : 引数リスト '(int, int, bool)' を一致させようとしているとき
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(225,39): error C2065: 'm_fadeCount': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(232,22): error C2065: 'kBgNum': 定義されていない識別子です。
+C:\Users\fko2347002\source\repos\sample4_Game\SceneManager.cpp(234,15): error C2065: 'm_bgHandle': 定義されていない識別子です。
+  SceneTitle.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コードを生成中...
